@@ -1,2 +1,24 @@
 # Stable-Master
-Stable Master NPC with advanced claim list gump
+Stable Master NPC with advanced claim list gump (UI) <br>
+This an NPC for the Ultima Online emulator ServUO (www.servuo.com) <br>
+<details>
+  <summary>Info</summary>
+
+  The Stable Master is an NPC that allows you to stable and retrieve your pets. This NPC has an expanding UI that shows all of your currently stabled pets and allows you to easily claim them.<br>
+Simply go up to the NPC and say "Claim list" to see your currently stabled pets.
+</details>
+
+<details>
+  <summary> Prewview Links</summary>
+  
+[GIF prewview][1] <br>
+[image 2][2] <br>
+[image 3][3] <br>
+[image 4][4] <br>
+
+
+  [1]: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/062a7e0c-415b-4dd4-b629-3805f30fd827/dghnwih-feec1586-8fee-4235-b072-47da4a703f41.gif/v1/fill/w_621,h_350,q_85,strp/claimgif_by_massapequa_dghnwih-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIzIiwicGF0aCI6IlwvZlwvMDYyYTdlMGMtNDE1Yi00ZGQ0LWI2MjktMzgwNWYzMGZkODI3XC9kZ2hud2loLWZlZWMxNTg2LThmZWUtNDIzNS1iMDcyLTQ3ZGE0YTcwM2Y0MS5naWYiLCJ3aWR0aCI6Ijw9NzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.d4nbvpmlN1A-lthA2tVjA-1EI8TZGfmaEJDcNaJWxk4
+  [2]: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/062a7e0c-415b-4dd4-b629-3805f30fd827/dghnwlj-514100b5-b545-472e-9829-6c88989de930.png/v1/fill/w_749,h_207,q_80,strp/claim_list1_by_massapequa_dghnwlj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA3IiwicGF0aCI6IlwvZlwvMDYyYTdlMGMtNDE1Yi00ZGQ0LWI2MjktMzgwNWYzMGZkODI3XC9kZ2hud2xqLTUxNDEwMGI1LWI1NDUtNDcyZS05ODI5LTZjODg5ODlkZTkzMC5wbmciLCJ3aWR0aCI6Ijw9NzQ5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.44zXAicP4ETyFBYV0Ts6NORbTs1gPqbgRVaINkoBJY8
+  [3]: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/062a7e0c-415b-4dd4-b629-3805f30fd827/dghnwn8-bfec5f5b-7dbd-431c-bd6c-b1cbbb743480.png/v1/fill/w_502,h_204,q_80,strp/claim_list2_by_massapequa_dghnwn8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA0IiwicGF0aCI6IlwvZlwvMDYyYTdlMGMtNDE1Yi00ZGQ0LWI2MjktMzgwNWYzMGZkODI3XC9kZ2hud244LWJmZWM1ZjViLTdkYmQtNDMxYy1iZDZjLWIxY2JiYjc0MzQ4MC5wbmciLCJ3aWR0aCI6Ijw9NTAyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.--ET4olPRIWMAwp4NGwUiTov1-9XMOtsrB0JIt8e75A
+  [4]: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/062a7e0c-415b-4dd4-b629-3805f30fd827/dghnwoc-a4432210-57a3-4167-98d5-aa8eafb2124e.png/v1/fill/w_305,h_203,q_80,strp/claim_list3_by_massapequa_dghnwoc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAzIiwicGF0aCI6IlwvZlwvMDYyYTdlMGMtNDE1Yi00ZGQ0LWI2MjktMzgwNWYzMGZkODI3XC9kZ2hud29jLWE0NDMyMjEwLTU3YTMtNDE2Ny05OGQ1LWFhOGVhZmIyMTI0ZS5wbmciLCJ3aWR0aCI6Ijw9MzA1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.b4o7ETxi3yc82pn9XR_F1EVsjoFwz0n78iweW7Nndps
+</details>
